@@ -1,0 +1,6 @@
+{
+  "name": "KiddiePulse AI - Analisis Ekspresi Seni & Tumbuh Kembang Anak",
+  "description": "Platform AI untuk menganalisis karya seni dan ekspresi emosional anak, memantau perkembangan afektif berkala, serta evaluasi status pertumbuhan dan nutrisi anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
